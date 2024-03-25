@@ -18,14 +18,14 @@ However, the transit method, often used in exoplanet detection, poses challenges
 
 In the context of promising space missions like NASA's Kepler and TESS missions, there were three main types of astronomical observation data—target pixel files, light curves, and tabular stellar information. However, when it comes to studying exoplanet atmospheres and identifying subtle spectral data, spectroscopic data becomes more useful.
 
-Subtle spectral data refers to the faint and nuanced signals in the spectrum of light emitted or absorbed by celestial objects, such as exoplanet atmospheres. From spectroscopic observations, we can access clues about the composition of exoplantes's atmospheres, like water vapor, methane, or carbon dioxide molecules.
+Subtle spectral data refers to the faint and nuanced signals in the spectrum of light emitted or absorbed by celestial objects, such as exoplanet atmospheres. From spectroscopic observations, we can access clues about the composition of exoplanets' atmospheres, like water vapor, methane, or carbon dioxide molecules.
 
 #### Transmission spectroscopy
 Transmission spectroscopy involves observing a star as an exoplanet passes in front of it (transit), allowing scientists to analyze the spectrum of light that passes through the exoplanet's atmosphere. 
 
 #### Transit method
 
-When an exoplanet passes in front of its host star (transits), it blocks a portion of the star's light, causing a temporary decrease in brightness — similar to an eclypse. This dip in brightness is recorded as a characteristic pattern in the light curve.
+When an exoplanet passes in front of its host star (again, transits), it blocks a portion of the star's light, causing a temporary decrease in brightness — similar to an eclypse. This dip in brightness is recorded as a characteristic pattern in the light curve.
 
 <video src="https://github.com/peppermintbird/nabs-prototype/assets/148541376/4708d5fb-552c-4296-9e24-22e82cf3accb">
 </video>
