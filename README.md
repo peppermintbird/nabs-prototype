@@ -4,6 +4,7 @@ Deep learning prototype model to analyze subtle spectral data from exoplanets.
 
 > For entertainment purposes, I call it NABS - Neural Astro-Biosignature Scanner, inspired by how many times Mr. Spock says, _“The scanner can’t identify any life forms, captain. Fascinating...”_
 
+---
 
 ### Summary
 This study explores the utilization of Spiking Neural Network (SNN) architecture for the analysis of time-series astronomical data, focusing on exoplanet detection and characterization. While SNNs are relatively novel in the domain of astronomical data analysis, this research presents a prototype model inspired by Kaggle and snnTorch tutorials. The primary goal is to train a small-scale SNN model capable of discerning subtle changes in spectral data during exoplanet transits and to evaluate its performance across epochs. 
