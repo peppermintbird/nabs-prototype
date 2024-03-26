@@ -35,10 +35,10 @@ When an exoplanet passes in front of its host star (again, transits), it blocks 
 <h6>Source: https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2</h6>
 
 
-#### Problem
+### Problem
 The transit method, although highly succesful in detecting exoplanets, can present challenges when considering the practicality of AI-enhanced probes in deep space. The transits are often infrequent and brief, which makes gathering sufficient data time and power-consuming, thus rendering space exploration unsustainable.
 
-#### Potential solution
+### Potential solution
 To address this problem, I propose an experiment leveraging Spiking Neural Networks (SNNs). SNNs offer advantages in processing sparse and temporal data, potentially effective in analyzing intermittent transit signals. 
 
 
