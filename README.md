@@ -28,7 +28,7 @@ To address this problem, I propose an experiment leveraging Spiking Neural Netwo
 - Evaluate model's performance over each epoch using sensitivity, specificity, test loss and AUC ROC.
 
 ### Milestones
-- [x] [First model (light curve data from Kepler)](snn_proto_exo.ipynb) 
+- [x] [First model (light curve data from Kepler and snnTorch package)](snn_proto_exo.ipynb) 
 - [ ] Classification testing on the first model
 - [ ] Second model (lightkurve package and tsai)
 - [ ] Studying random forests and decision trees for benchmarking
