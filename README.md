@@ -28,8 +28,12 @@ To address this problem, I propose an experiment leveraging Spiking Neural Netwo
 - Evaluate model's performance over each epoch using sensitivity, specificity, test loss and AUC ROC.
 
 ### Milestones
-- [x] [First model (Light curve data from Kepler)](snn_proto_exo.ipynb)
-- [ ] Second model (Atmospheric spectra)
+- [x] [First model (light curve data from Kepler)](snn_proto_exo.ipynb) 
+- [ ] Classification testing on the first model
+- [ ] Second model (lightkurve package and tsai)
+- [ ] Studying random forests and decision trees for benchmarking
+- [ ] Studying suitable machine learning models for time series forecasting tasks
+- [ ] Third model (atmospheric spectra)
 
 
 
