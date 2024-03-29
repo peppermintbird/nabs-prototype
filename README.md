@@ -1,6 +1,8 @@
 ## Handling time-series astronomical data with SNN architecture for exoplanet detection and characterization
 
- 
+<div align=center>
+ <img src="https://github.com/peppermintbird/nabs-prototype/assets/148541376/b883130a-d1b4-434c-adea-5ae7e9b7925e" style="width:9%"><h1>NABS</h1>
+</div>
 
 > For entertainment purposes, I call it NABS - Neural Astro-Biosignature Scanner, inspired by how many times Mr. Spock says, _“The scanner can’t identify any life forms, captain. Fascinating...”_
 
@@ -26,7 +28,8 @@ To address this problem, I propose an experiment leveraging Spiking Neural Netwo
 - Evaluate model's performance over each epoch using sensitivity, specificity, test loss and AUC ROC.
 
 ### Milestones
- ✅ [First model (Light curve data from Kepler)](snn_proto_exo.ipynb)
+- [x] [First model (Light curve data from Kepler)](snn_proto_exo.ipynb)
+- [ ] Second model (Atmospheric spectra)
 
 
 
