@@ -8,6 +8,8 @@
 
 ---
 
+> 🔭 Project phase: exploration
+
 ### Summary
 This study explores the utilization of Spiking Neural Network (SNN) architecture for the analysis of time-series astronomical data, focusing on exoplanet detection and characterization. While SNNs are relatively novel in the domain of astronomical data analysis, this research presents a prototype inspired by Kaggle and snnTorch tutorials as its first model. The primary goal is to train small-scale SNN models capable of discerning subtle changes in time-series data during exoplanet transits and to evaluate its performance across epochs. 
 
@@ -23,9 +25,18 @@ The transit method, although highly succesful in detecting exoplanets, can prese
 To address this problem, I propose an experiment leveraging Spiking Neural Networks (SNNs). SNNs offer advantages in processing sparse and temporal data, potentially effective in analyzing intermittent transit signals. 
 
 ### Goals
-- Augment the data for imbalance 
-- Train small-scale SNN models to analyze subtle changes in the spectrum during transit
-- Evaluate model's performance over each epoch using sensitivity, specificity, test loss and AUC ROC.
+- preprocess available data;
+- study baseline models and existing methods used for exoplanet detection;
+- augment the data for imbalance; 
+- train small-scale SNN models to analyze subtle changes in the spectrum during transit;
+- evaluate models' performance over each epoch using sensitivity, specificity, test loss and AUC ROC;
+- optimize models;
+- compare SNN's methods with other methods;
+- compare the performance of SNNs with traditional machine learning algorithms;
+- documenting experiments and delivering results.
+
+### Note
+- I'm looking to refine and narrow down the project's objectives and structure. That's why I split it into "phases". Right now, I'm in the exploration phase, tapping into time-series modeling, acquainting myself with various forms of astronomical data, and reviewing literature.
 
 ### Milestones
 - [x] [First model (light curve data from Kepler and snnTorch package)](snn_proto_exo.ipynb) 
