@@ -1,7 +1,7 @@
 ## Handling time-series astronomical data with SNN architecture for exoplanet detection and characterization
 
 <div align=center>
- <img src="https://github.com/peppermintbird/nabs-prototype/assets/148541376/b883130a-d1b4-434c-adea-5ae7e9b7925e" style="width:9%"><h1>NABS</h1>
+ <img src="https://github.com/peppermintbird/nabs-prototype/assets/148541376/b883130a-d1b4-434c-adea-5ae7e9b7925e" style="width:12%"><h1>NABS</h1>
 </div>
 
 > For entertainment purposes, I call it NABS - Neural Astro-Biosignature Scanner, inspired by how many times Mr. Spock says, _“The scanner can’t identify any life forms, captain. Fascinating...”_
