@@ -36,7 +36,7 @@ To address this problem, I propose an experiment leveraging Spiking Neural Netwo
 - documenting experiments and delivering results.
 
 ### Note
-- I'm looking to refine and narrow down the project's objectives and structure. That's why I split it into "phases". Right now, I'm in the exploration phase, tapping into time-series modeling, acquainting myself with various forms of astronomical data, and reviewing literature.
+I'm looking to refine and narrow down the project's objectives and structure. That's why I split it into "phases". Right now, I'm in the exploration phase, tapping into time-series modeling, acquainting myself with various forms of astronomical data, and reviewing literature.
 
 ### Milestones
 - [x] [First model (light curve data from Kepler and snnTorch package)](snn_proto_exo.ipynb) 
